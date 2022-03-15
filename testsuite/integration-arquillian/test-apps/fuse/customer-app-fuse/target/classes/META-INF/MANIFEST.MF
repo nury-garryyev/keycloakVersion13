@@ -1,0 +1,49 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1647258813785
+Build-Jdk: 17.0.2
+Built-By: Nury
+Bundle-ClassPath: .,WEB-INF/classes
+Bundle-DocURL: http://www.jboss.org
+Bundle-License: https://www.apache.org/licenses/LICENSE-2.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Customer Portal - Secured in Karaf/Fuse
+Bundle-SymbolicName: org.keycloak.testsuite.fuse-example-customer-portal
+Bundle-Vendor: JBoss by Red Hat
+Bundle-Version: 13.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Embed-Directory: WEB-INF/lib
+Implementation-Title: Customer Portal - Secured in Karaf/Fuse
+Implementation-URL: http://keycloak.org/keycloak-testsuite-pom/integrati
+ on-arquillian/integration-arquillian-test-apps/integration-arquillian-t
+ est-apps-fuse-parent/fuse-example-customer-portal
+Implementation-Vendor: JBoss by Red Hat
+Implementation-Vendor-Id: org.keycloak.testsuite
+Implementation-Version: 13.0.0-SNAPSHOT
+Import-Package: javax.servlet.http;version="[3.1,5)",org.apache.http;ver
+ sion="4.4.4",org.apache.http.client;version="4.5.2",org.apache.http.cli
+ ent.methods;version="4.5.2",org.apache.http.conn;version="4.5.2",org.ke
+ ycloak;version="13.0.0.SNAPSHOT",org.keycloak.adapters;version="13.0.0.
+ SNAPSHOT",org.keycloak.adapters.authentication;version="13.0.0.SNAPSHOT
+ ";resolution:=optional,org.keycloak.adapters.jetty;version="13.0.0.SNAP
+ SHOT";resolution:=optional,org.keycloak.common.util;version="13.0.0.SNA
+ PSHOT",org.keycloak.constants;version="13.0.0.SNAPSHOT",org.keycloak.re
+ presentations;version="13.0.0.SNAPSHOT",org.keycloak.util;version="13.0
+ .0.SNAPSHOT"
+Java-Vendor: Eclipse Adoptium
+Java-Version: 17.0.2
+Os-Arch: amd64
+Os-Name: Windows 10
+Os-Version: 10.0
+Scm-Connection: scm:git:git://github.com/keycloak/keycloak.git/keycloak-
+ testsuite-pom/integration-arquillian/integration-arquillian-test-apps/i
+ ntegration-arquillian-test-apps-fuse-parent/fuse-example-customer-porta
+ l
+Scm-Url: https://github.com/keycloak/keycloak/tree/master/keycloak-tests
+ uite-pom/integration-arquillian/integration-arquillian-test-apps/integr
+ ation-arquillian-test-apps-fuse-parent/fuse-example-customer-portal/
+Specification-Title: Customer Portal - Secured in Karaf/Fuse
+Specification-Vendor: JBoss by Red Hat
+Specification-Version: 13.0.0-SNAPSHOT
+Tool: Bnd-1.50.0
+Web-ContextPath: customer-portal
+Webapp-Context: customer-portal

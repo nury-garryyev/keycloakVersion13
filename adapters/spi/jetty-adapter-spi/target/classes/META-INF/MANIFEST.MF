@@ -1,0 +1,44 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1647258818451
+Build-Jdk: 17.0.2
+Built-By: Nury
+Bundle-ClassPath: .
+Bundle-DocURL: http://www.jboss.org
+Bundle-License: https://www.apache.org/licenses/LICENSE-2.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Keycloak Jetty Adapter SPI
+Bundle-SymbolicName: org.keycloak.keycloak-jetty-adapter-spi
+Bundle-Vendor: JBoss by Red Hat
+Bundle-Version: 13.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.keycloak.adapters.jetty.spi;uses:="javax.servlet,jav
+ ax.servlet.http,org.eclipse.jetty.server,org.keycloak.adapters.spi,org.
+ keycloak.common.util,javax.security.cert,org.jboss.logging,org.eclipse.
+ jetty.server.session,org.eclipse.jetty.server.handler";version="13.0.0.
+ SNAPSHOT"
+Implementation-Title: Keycloak Jetty Adapter SPI
+Implementation-URL: http://keycloak.org/keycloak-jetty-adapter-spi
+Implementation-Vendor: JBoss by Red Hat
+Implementation-Vendor-Id: org.keycloak
+Implementation-Version: 13.0.0-SNAPSHOT
+Import-Package: javax.security.cert;resolution:=optional,javax.servlet;v
+ ersion="[2.5,4)";resolution:=optional,javax.servlet.http;version="[2.5,
+ 4)";resolution:=optional,org.eclipse.jetty.server;version="[8.1,10)";re
+ solution:=optional,org.eclipse.jetty.server.handler;version="[8.1,10)";
+ resolution:=optional,org.eclipse.jetty.server.session;version="[8.1,10)
+ ";resolution:=optional,org.jboss.logging;version="[3.4,4)";resolution:=
+ optional,org.keycloak.adapters.spi;version="13.0.0.SNAPSHOT",org.keyclo
+ ak.common.util;version="13.0.0.SNAPSHOT"
+Java-Vendor: Eclipse Adoptium
+Java-Version: 17.0.2
+Os-Arch: amd64
+Os-Name: Windows 10
+Os-Version: 10.0
+Scm-Connection: scm:git:git://github.com/keycloak/keycloak.git/keycloak-
+ jetty-adapter-spi
+Scm-Url: https://github.com/keycloak/keycloak/tree/master/keycloak-jetty
+ -adapter-spi/
+Specification-Title: Keycloak Jetty Adapter SPI
+Specification-Vendor: JBoss by Red Hat
+Specification-Version: 13.0.0-SNAPSHOT
+Tool: Bnd-1.50.0

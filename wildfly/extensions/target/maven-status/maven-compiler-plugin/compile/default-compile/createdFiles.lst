@@ -1,0 +1,13 @@
+org\keycloak\provider\wildfly\ModuleThemeProviderFactory.class
+org\keycloak\vault\ElytronCSKeyStoreProviderFactory$1.class
+org\keycloak\provider\wildfly\WildFlyRequestFilter.class
+org\keycloak\provider\wildfly\DMRConfigProviderFactory.class
+org\keycloak\provider\wildfly\ModuleProviderLoaderFactory.class
+org\keycloak\provider\wildfly\WildflyPlatform$1.class
+org\keycloak\provider\wildfly\WildflyLifecycleListener.class
+org\keycloak\provider\wildfly\Resteasy3Provider.class
+org\keycloak\provider\wildfly\WildFlyRequestFilter$1.class
+org\keycloak\vault\ElytronCSKeyStoreProvider.class
+org\keycloak\provider\wildfly\WildflyCacheManagerProvider.class
+org\keycloak\vault\ElytronCSKeyStoreProviderFactory.class
+org\keycloak\provider\wildfly\WildflyPlatform.class

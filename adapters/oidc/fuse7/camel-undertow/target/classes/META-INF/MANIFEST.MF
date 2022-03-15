@@ -1,0 +1,51 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1647259033998
+Build-Jdk: 17.0.2
+Built-By: Nury
+Bundle-Description: Keycloak SSO
+Bundle-DocURL: http://www.jboss.org
+Bundle-License: https://www.apache.org/licenses/LICENSE-2.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Keycloak Fuse 7.0 Adapter - Camel + Undertow
+Bundle-SymbolicName: org.keycloak.keycloak-camel-undertow
+Bundle-Vendor: JBoss by Red Hat
+Bundle-Version: 13.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.keycloak.adapters.camel.undertow;uses:="org.apache.c
+ amel.component.undertow,org.apache.camel,io.undertow.security.idm,io.un
+ dertow.server,io.undertow.security.impl,org.keycloak.adapters.spi,io.un
+ dertow.server.session,org.keycloak,io.undertow.security.api,org.keycloa
+ k.adapters.undertow,io.undertow.util,org.keycloak.enums,org.keycloak.ad
+ apters,org.keycloak.representations.adapters.config";version="13.0.0.SN
+ APSHOT"
+Export-Service: org.apache.camel.spi.ComponentResolver;component=underto
+ w-keycloak
+Implementation-Title: Keycloak Fuse 7.0 Adapter - Camel + Undertow
+Implementation-URL: http://keycloak.org/keycloak-fuse7-integration-pom/k
+ eycloak-camel-undertow
+Implementation-Vendor: JBoss by Red Hat
+Implementation-Vendor-Id: org.keycloak
+Implementation-Version: 13.0.0-SNAPSHOT
+Import-Package: io.undertow.security.api;version="[1.4,3)",io.undertow.s
+ ecurity.idm;version="[1.4,3)",io.undertow.security.impl;version="[1.4,3
+ )",io.undertow.server;version="[1.4,3)",io.undertow.server.session;vers
+ ion="[1.4,3)",io.undertow.util;version="[1.4,3)",org.apache.camel;versi
+ on="[2.21,3)",org.apache.camel.component.undertow;version="[2.21,3)",or
+ g.keycloak;version="13.0.0.SNAPSHOT",org.keycloak.adapters;version="13.
+ 0.0.SNAPSHOT",org.keycloak.adapters.spi;version="13.0.0.SNAPSHOT",org.k
+ eycloak.adapters.undertow;version="13.0.0.SNAPSHOT",org.keycloak.enums;
+ version="13.0.0.SNAPSHOT",org.keycloak.representations.adapters.config;
+ version="13.0.0.SNAPSHOT"
+Java-Vendor: Eclipse Adoptium
+Java-Version: 17.0.2
+Os-Arch: amd64
+Os-Name: Windows 10
+Os-Version: 10.0
+Scm-Connection: scm:git:git://github.com/keycloak/keycloak.git/keycloak-
+ fuse7-integration-pom/keycloak-camel-undertow
+Scm-Url: https://github.com/keycloak/keycloak/tree/master/keycloak-fuse7
+ -integration-pom/keycloak-camel-undertow/
+Specification-Title: Keycloak Fuse 7.0 Adapter - Camel + Undertow
+Specification-Vendor: JBoss by Red Hat
+Specification-Version: 13.0.0-SNAPSHOT
+Tool: Bnd-1.50.0

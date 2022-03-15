@@ -1,0 +1,12 @@
+org\keycloak\federation\kerberos\impl\SPNEGOAuthenticator$AcceptSecContext.class
+org\keycloak\federation\kerberos\KerberosFederationProvider.class
+org\keycloak\federation\kerberos\impl\KerberosServerSubjectAuthenticator$1.class
+org\keycloak\federation\kerberos\impl\KerberosServerSubjectAuthenticator.class
+org\keycloak\federation\kerberos\KerberosFederationProviderFactory.class
+org\keycloak\federation\kerberos\KerberosConfig.class
+org\keycloak\federation\kerberos\impl\KerberosUsernamePasswordAuthenticator.class
+org\keycloak\federation\kerberos\impl\KerberosUsernamePasswordAuthenticator$1.class
+org\keycloak\federation\kerberos\ReadOnlyKerberosUserModelDelegate.class
+org\keycloak\federation\kerberos\impl\SPNEGOAuthenticator$1.class
+org\keycloak\federation\kerberos\CommonKerberosConfig.class
+org\keycloak\federation\kerberos\impl\SPNEGOAuthenticator.class

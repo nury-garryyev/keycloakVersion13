@@ -1,0 +1,2 @@
+org.keycloak.quarkus.deployment.KeycloakProcessor
+org.keycloak.quarkus.deployment.LiquibaseProcessor

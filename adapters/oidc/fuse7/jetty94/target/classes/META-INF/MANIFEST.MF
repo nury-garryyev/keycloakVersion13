@@ -1,0 +1,46 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1647258822285
+Build-Jdk: 17.0.2
+Built-By: Nury
+Bundle-Description: Keycloak SSO
+Bundle-DocURL: http://www.jboss.org
+Bundle-License: https://www.apache.org/licenses/LICENSE-2.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Keycloak Fuse 7.0 Adapter - Jetty 9.4
+Bundle-SymbolicName: org.keycloak.keycloak-pax-web-jetty94
+Bundle-Vendor: JBoss by Red Hat
+Bundle-Version: 13.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.keycloak.adapters.osgi.jetty94;uses:="org.eclipse.je
+ tty.security,org.keycloak.adapters.jetty,org.ops4j.pax.web.service,org.
+ osgi.framework,org.osgi.util.tracker,org.osgi.service.http,org.eclipse.
+ jetty.util.security,org.jboss.logging,org.ops4j.pax.web.service.spi.mod
+ el";version="13.0.0.SNAPSHOT"
+Fragment-Host: org.ops4j.pax.web.pax-web-jetty
+Implementation-Title: Keycloak Fuse 7.0 Adapter - Jetty 9.4
+Implementation-URL: http://keycloak.org/keycloak-fuse7-integration-pom/k
+ eycloak-pax-web-jetty94
+Implementation-Vendor: JBoss by Red Hat
+Implementation-Vendor-Id: org.keycloak
+Implementation-Version: 13.0.0-SNAPSHOT
+Import-Package: org.eclipse.jetty.security;version="[9.4,10)";resolution
+ :=optional,org.eclipse.jetty.util.security;version="[9.4,10)";resolutio
+ n:=optional,org.jboss.logging;version="[3.4,4)";resolution:=optional,or
+ g.keycloak.adapters.jetty;version="13.0.0.SNAPSHOT",org.ops4j.pax.web.s
+ ervice;version="[7.1,9)",org.ops4j.pax.web.service.spi.model;version="[
+ 7.1,9)",org.osgi.framework;version="[1.5,2)";resolution:=optional,org.o
+ sgi.service.http;version="[1.2,2)";resolution:=optional,org.osgi.util.t
+ racker;version="[1.4,2)";resolution:=optional
+Java-Vendor: Eclipse Adoptium
+Java-Version: 17.0.2
+Os-Arch: amd64
+Os-Name: Windows 10
+Os-Version: 10.0
+Scm-Connection: scm:git:git://github.com/keycloak/keycloak.git/keycloak-
+ fuse7-integration-pom/keycloak-pax-web-jetty94
+Scm-Url: https://github.com/keycloak/keycloak/tree/master/keycloak-fuse7
+ -integration-pom/keycloak-pax-web-jetty94/
+Specification-Title: Keycloak Fuse 7.0 Adapter - Jetty 9.4
+Specification-Vendor: JBoss by Red Hat
+Specification-Version: 13.0.0-SNAPSHOT
+Tool: Bnd-1.50.0

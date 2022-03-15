@@ -1,0 +1,10 @@
+D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\keycloakVersion13\wildfly\extensions\src\main\java\org\keycloak\provider\wildfly\WildflyPlatform.java
+D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\keycloakVersion13\wildfly\extensions\src\main\java\org\keycloak\provider\wildfly\WildflyLifecycleListener.java
+D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\keycloakVersion13\wildfly\extensions\src\main\java\org\keycloak\provider\wildfly\DMRConfigProviderFactory.java
+D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\keycloakVersion13\wildfly\extensions\src\main\java\org\keycloak\provider\wildfly\WildflyCacheManagerProvider.java
+D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\keycloakVersion13\wildfly\extensions\src\main\java\org\keycloak\provider\wildfly\WildFlyRequestFilter.java
+D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\keycloakVersion13\wildfly\extensions\src\main\java\org\keycloak\provider\wildfly\ModuleProviderLoaderFactory.java
+D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\keycloakVersion13\wildfly\extensions\src\main\java\org\keycloak\provider\wildfly\Resteasy3Provider.java
+D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\keycloakVersion13\wildfly\extensions\src\main\java\org\keycloak\provider\wildfly\ModuleThemeProviderFactory.java
+D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\keycloakVersion13\wildfly\extensions\src\main\java\org\keycloak\vault\ElytronCSKeyStoreProvider.java
+D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\keycloakVersion13\wildfly\extensions\src\main\java\org\keycloak\vault\ElytronCSKeyStoreProviderFactory.java

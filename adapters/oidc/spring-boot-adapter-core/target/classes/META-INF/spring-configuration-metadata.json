@@ -1,0 +1,290 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties$SecurityCollection",
+      "name": "",
+      "type": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties$SecurityCollection"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties$SecurityConstraint",
+      "name": "",
+      "type": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties$SecurityConstraint"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak",
+      "type": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties$SecurityConstraint",
+      "name": "auth-roles",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties$SecurityCollection",
+      "name": "description",
+      "description": "The description of your security collection",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.allow-any-hostname",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.always-refresh-token",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.auth-server-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.autodetect-bearer-only",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.bearer-only",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.client-key-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.client-keystore",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.client-keystore-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.confidential-port",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.config",
+      "type": "java.util.Map"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.connection-pool-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.cors",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.cors-allowed-headers",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.cors-allowed-methods",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.cors-exposed-headers",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.cors-max-age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.credentials",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.disable-trust-manager",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.enable-basic-auth",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.enabled",
+      "description": "Allow enabling of Keycloak Spring Boot adapter by configuration.",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.expose-token",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.ignore-o-auth-query-parameter",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.min-time-between-jwks-requests",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.pkce",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.policy-enforcer-config",
+      "type": "org.keycloak.representations.adapters.config.PolicyEnforcerConfig"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.principal-attribute",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.proxy-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.public-client",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.public-key-cache-ttl",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.realm",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.realm-key",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.redirect-rewrite-rules",
+      "type": "java.util.Map<java.lang.String,java.lang.String>"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.register-node-at-startup",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.register-node-period",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.resource",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.security-constraints",
+      "description": "To provide Java EE security constraints",
+      "type": "java.util.List<org.keycloak.adapters.springboot.KeycloakSpringBootProperties.SecurityConstraint>"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.ssl-required",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.token-cookie-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.token-minimum-time-to-live",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.token-store",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.truststore",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.truststore-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.turn-off-change-session-id-on-login",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.use-resource-role-mappings",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties",
+      "name": "keycloak.verify-token-audience",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties$SecurityCollection",
+      "name": "methods",
+      "description": "A list of HTTP methods that applies for this security collection",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties$SecurityCollection",
+      "name": "name",
+      "description": "The name of your security constraint",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties$SecurityCollection",
+      "name": "omitted-methods",
+      "description": "A list of HTTP methods that will be omitted for this security collection",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties$SecurityCollection",
+      "name": "patterns",
+      "description": "A list of URL patterns that should match to apply the security collection",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.keycloak.adapters.springboot.KeycloakSpringBootProperties$SecurityConstraint",
+      "name": "security-collections",
+      "description": "A list of security collections",
+      "type": "java.util.List<org.keycloak.adapters.springboot.KeycloakSpringBootProperties.SecurityCollection>"
+    }
+  ]
+}

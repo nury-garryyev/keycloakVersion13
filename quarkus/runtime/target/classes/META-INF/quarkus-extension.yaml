@@ -1,0 +1,14 @@
+---
+name: "Keycloak"
+metadata:
+  keywords:
+  - "keycloak"
+  guide: "https://keycloak.org"
+  categories:
+  - "security"
+  status: "preview"
+  built-with-quarkus-core: "io.quarkus:quarkus-core:1.12.2.Final"
+group-id: "org.keycloak"
+artifact-id: "keycloak-quarkus-server"
+version: "13.0.0-SNAPSHOT"
+description: ""

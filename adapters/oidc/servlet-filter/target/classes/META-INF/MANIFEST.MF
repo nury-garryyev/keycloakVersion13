@@ -1,0 +1,41 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1647258870106
+Build-Jdk: 17.0.2
+Built-By: Nury
+Bundle-ClassPath: .
+Bundle-DocURL: http://www.jboss.org
+Bundle-License: https://www.apache.org/licenses/LICENSE-2.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Keycloak Servlet Filter Adapter Integration
+Bundle-SymbolicName: org.keycloak.keycloak-servlet-filter-adapter
+Bundle-Vendor: JBoss by Red Hat
+Bundle-Version: 13.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.keycloak.adapters.servlet;uses:="org.keycloak,org.ke
+ ycloak.adapters,javax.servlet.http,org.keycloak.adapters.spi,javax.serv
+ let,org.keycloak.common.util,org.keycloak.representations";version="13.
+ 0.0.SNAPSHOT"
+Implementation-Title: Keycloak Servlet Filter Adapter Integration
+Implementation-URL: http://keycloak.org/keycloak-servlet-filter-adapter
+Implementation-Vendor: JBoss by Red Hat
+Implementation-Vendor-Id: org.keycloak
+Implementation-Version: 13.0.0-SNAPSHOT
+Import-Package: javax.servlet;version="[3.1,5)";resolution:=optional,jav
+ ax.servlet.http;version="[3.1,5)";resolution:=optional,org.keycloak;ver
+ sion="13.0.0.SNAPSHOT",org.keycloak.adapters;version="13.0.0.SNAPSHOT",
+ org.keycloak.adapters.spi;version="13.0.0.SNAPSHOT",org.keycloak.common
+ .util;version="13.0.0.SNAPSHOT",org.keycloak.representations;version="1
+ 3.0.0.SNAPSHOT"
+Java-Vendor: Eclipse Adoptium
+Java-Version: 17.0.2
+Os-Arch: amd64
+Os-Name: Windows 10
+Os-Version: 10.0
+Scm-Connection: scm:git:git://github.com/keycloak/keycloak.git/keycloak-
+ servlet-filter-adapter
+Scm-Url: https://github.com/keycloak/keycloak/tree/master/keycloak-servl
+ et-filter-adapter/
+Specification-Title: Keycloak Servlet Filter Adapter Integration
+Specification-Vendor: JBoss by Red Hat
+Specification-Version: 13.0.0-SNAPSHOT
+Tool: Bnd-1.50.0

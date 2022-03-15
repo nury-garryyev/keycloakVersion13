@@ -1,0 +1,8 @@
+D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\keycloakVersion13\federation\kerberos\src\main\java\org\keycloak\federation\kerberos\KerberosConfig.java
+D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\keycloakVersion13\federation\kerberos\src\main\java\org\keycloak\federation\kerberos\KerberosFederationProviderFactory.java
+D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\keycloakVersion13\federation\kerberos\src\main\java\org\keycloak\federation\kerberos\ReadOnlyKerberosUserModelDelegate.java
+D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\keycloakVersion13\federation\kerberos\src\main\java\org\keycloak\federation\kerberos\CommonKerberosConfig.java
+D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\keycloakVersion13\federation\kerberos\src\main\java\org\keycloak\federation\kerberos\impl\SPNEGOAuthenticator.java
+D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\keycloakVersion13\federation\kerberos\src\main\java\org\keycloak\federation\kerberos\impl\KerberosServerSubjectAuthenticator.java
+D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\keycloakVersion13\federation\kerberos\src\main\java\org\keycloak\federation\kerberos\impl\KerberosUsernamePasswordAuthenticator.java
+D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\keycloakVersion13\federation\kerberos\src\main\java\org\keycloak\federation\kerberos\KerberosFederationProvider.java
